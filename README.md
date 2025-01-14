@@ -1,4 +1,4 @@
-# Landmark Classification & Tagging for Social Media 2.0
+# Landmark Classification & Tagging for Social Media
 
 ## Project Overview
 
@@ -7,6 +7,8 @@ Photo sharing and storage platforms often benefit from location data to enhance 
 This project tackles this problem by building models to predict the location of images based on visible landmarks. It follows the complete machine learning pipeline, including data preprocessing, CNN design and training, transfer learning, and evaluation. The project aligns with the rubric requirements of the "AWS AI & ML Scholarship" program.
 
 Examples from the landmarks dataset include iconic locations such as Death Valley, the Brooklyn Bridge, and the Eiffel Tower.
+
+As part of the AWS AI & ML Scholarship
 
 ---
 
