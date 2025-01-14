@@ -68,7 +68,7 @@ Examples from the landmarks dataset include iconic locations such as Death Valle
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/AdrianCuevasML/Landmark_Classification_Tagging_for_Social_Media.git
+git clone https://github.com/AdrianCuevasML/Landmark_Classification_and_Tagging_for_Social_Media.git
 ```
 
 ### Navigate to the Repository Directory
