@@ -1,4 +1,4 @@
-# Landmark Classification & Tagging for Social Media 2.0
+# Landmark Classification & Tagging for Social Media
 
 ## Project Overview
 
